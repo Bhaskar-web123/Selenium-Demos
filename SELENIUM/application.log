@@ -1,0 +1,3 @@
+2020-01-03 10:31:38,410  INFO [main] Log4Jdemo:20 - Application started successfully
+2020-01-03 10:31:38,430  WARN [main] Log4Jdemo:23 - Check Title
+2020-01-03 10:31:38,431  INFO [main] Log4Jdemo:28 - Correct Page
